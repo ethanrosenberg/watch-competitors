@@ -14,6 +14,7 @@ gem 'local_time'
 #gem 'scraperapi', '~> 0.1.3'
 gem 'nokogiri'
 gem 'httparty'
+gem 'active_skin'
 
 
 
